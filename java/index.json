@@ -22,7 +22,7 @@
     },
     "assets": {
       "host01" : [
-        { "file": "HelloWorld.java", "target" : "/root/HelloWorld.java"}
+        { "file": "HelloWorld.java", "target" : "/root/code" }
       ]
     }
   },
