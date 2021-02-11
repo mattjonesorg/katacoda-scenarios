@@ -1,3 +1,3 @@
 # Explore our first Java program.
 
-Open `HelloWorld.java`{{open}}
+Open `/root/HelloWorld.java`{{open}}
