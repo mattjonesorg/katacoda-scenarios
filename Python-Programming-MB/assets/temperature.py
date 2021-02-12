@@ -7,7 +7,7 @@ continueYN = "y"
  
 while continueYN == "y":
    #...get temperature input from the user
-   sDegreeF = input("Enter next temperature in degrees Farenheight (F):")
+   sDegreeF = input("Enter next temperature in degrees Fahrenheit (F):")
  
    #...convert text entry to number value that can be used in equations
    nDegreeF = int(sDegreeF)
@@ -15,7 +15,7 @@ while continueYN == "y":
    #...convert temperature from F to Celsius
    nDegreeC = (nDegreeF - 32) * 5 / 9
  
-   print ("Temperature in degrees C is:", nDegreeC)
+   print ("Temperature in degrees Celsius is:", nDegreeC)
  
    #...check for temperature below freezing..
    if nDegreeC < 0:

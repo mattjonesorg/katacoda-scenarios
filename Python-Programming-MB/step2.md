@@ -5,3 +5,8 @@ Here are some things you'll see in this tutorial.
 2. Run `cd /code`{{execute}} to switch to the right working directory.  Commands that look like `cd /code`{{execute}} execute in the bottom half of your screen, and can be either typed, or clicked for automatic execution.
 3. Run `python temperature.py`{{execute}}
 
+In the bottom half of the screen, you'll see some things happening in the "Your Interactive Bash Terminal" portion of the screen.
+It should say:
+<pre>
+Enter next temperature in degrees Farenheight (F)
+
