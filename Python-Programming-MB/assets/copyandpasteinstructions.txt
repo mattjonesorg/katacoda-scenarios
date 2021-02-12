@@ -1,0 +1,19 @@
+This is the window where you will be doing your work.
+
+At any time, you can select all of the text in this window, copy it to the clipboard, and save it to your local computer.  Here's how.
+
+1. Select (highlight) all of the text in this window.
+2. Right-click on the highlighted text and select "Copy" (or press ctrl+c to copy without using the mouse)
+3. On your computer, next to the start button, press "notepad"  (on a Mac, press command+space and type textedit).
+4. In the window that opens up, right click and select "Paste" (or press ctrl+v)
+5. On the File menu, select "Save" and give the file a name (copyandpasteinsructions.txt works well for this one, but my-python-program.py works for the actual code you'll be working on) 
+
+If you ever need to come back to where you were, you'll need to follow these steps:
+1. Open Notepad on your computer
+2. File->Open and find the file that you saved previously
+3. Select all of the text
+4. Right-click on the highlighted and select "Copy"
+5. Navigate to where you were in the katacoda and press Save.  
+
+You'll need to email your merit badge counselor the code when you are finished, so you'll need to copy/paste the code from the katacoda environment in order to send it.
+

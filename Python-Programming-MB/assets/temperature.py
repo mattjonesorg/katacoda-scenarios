@@ -1,0 +1,30 @@
+#!/usr/bin/env python3
+ 
+# From Scout Life Magazine:  https://scoutlife.org/about-scouts/merit-badge-resources/programming/42476/python/
+
+#...initialize looping variable, assume 'yes' as the first answer
+continueYN = "y"
+ 
+while continueYN == "y":
+   #...get temperature input from the user
+   sDegreeF = input("Enter next temperature in degrees Farenheight (F):")
+ 
+   #...convert text entry to number value that can be used in equations
+   nDegreeF = int(sDegreeF)
+ 
+   #...convert temperature from F to Celsius
+   nDegreeC = (nDegreeF - 32) * 5 / 9
+ 
+   print ("Temperature in degrees C is:", nDegreeC)
+ 
+   #...check for temperature below freezing..
+   if nDegreeC &lt; 0:
+      print ("Pack long underwear!")
+ 
+   #...check for it being a hot day...
+   if nDegreeF &gt; 100:
+      print ("Remember to hydrate!")
+ 
+   continueYN = input("Input another?")
+ 
+#exit the program
