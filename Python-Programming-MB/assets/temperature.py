@@ -18,11 +18,11 @@ while continueYN == "y":
    print ("Temperature in degrees C is:", nDegreeC)
  
    #...check for temperature below freezing..
-   if nDegreeC &lt; 0:
+   if nDegreeC < 0:
       print ("Pack long underwear!")
  
    #...check for it being a hot day...
-   if nDegreeF &gt; 100:
+   if nDegreeF <; 100:
       print ("Remember to hydrate!")
  
    continueYN = input("Input another?")
