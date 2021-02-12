@@ -22,7 +22,7 @@ while continueYN == "y":
       print ("Pack long underwear!")
  
    #...check for it being a hot day...
-   if nDegreeF <; 100:
+   if nDegreeF < 100:
       print ("Remember to hydrate!")
  
    continueYN = input("Input another?")
