@@ -43,7 +43,8 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "editor-terminal",
+    "uieditorpath": "/code"
   },
   "backend": {
     "imageid": "python:3.8"
