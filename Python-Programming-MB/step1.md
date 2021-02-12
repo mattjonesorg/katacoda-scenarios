@@ -2,7 +2,7 @@ Katacoda provides a temporary coding environment so you don't have to install lo
 
 And if you ever need to step away from the computer, for a bathroom break, or other, please copy and paste the contents of the file to your local computer.  
 
-Open `copyandpasteinstructions.txt`{{open}}
+Open `/code/copyandpasteinstructions.txt`{{open}}
 
 Follow the instructions you see on the right to practice saving your work.
 
