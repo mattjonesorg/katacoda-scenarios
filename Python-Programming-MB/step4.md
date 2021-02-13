@@ -26,4 +26,4 @@ The function int takes in a string and tries to convert it to a number that can 
 * What are the variables in this function?
 * What happens if you type words for the Fahrenheit input instead of numbers?  Why?
 
-*Hint:  You can always click or type `python temperature.py`{{execute}} after you make changes to the code on the right.*
+*Hint:  You can always click or type `python temperature.py`{{execute}} to run the program.*
