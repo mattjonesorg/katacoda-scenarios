@@ -15,7 +15,9 @@ Go ahead and type in a number and see the result!
 
 Once you get the result, you'll be asked
 <pre>
+<code class="language-bash">
 Input another?
+</code>
 </pre>
 
 If you type a "y", you'll be able to do the calculation again.

@@ -9,7 +9,9 @@ You've probably seen something like this in math class.
 
 In the middle of the file, you'll see this line:
 <pre>
+<code class="language-python">
   nDegreeC = (nDegreeF - 32) * 5 / 9
+</code>
 </pre>
 
 Which looks a lot like the formula you learned in math class!  Sure, the variables have different names, but this computer program does all the work faster than you can write out the problem.  
