@@ -7,18 +7,16 @@ Here are some things you'll see in this tutorial.
 
 In the bottom half of the screen, you'll see some things happening in the "Your Interactive Bash Terminal" portion of the screen.
 It should say:
-<pre>
+<pre><code class="language-bash hljs">
 Enter next temperature in degrees Farenheight (F)
-</pre>
+</code></pre>
 
 Go ahead and type in a number and see the result!
 
 Once you get the result, you'll be asked
-<pre>
-<code class="language-bash">
+<pre><code class="language-bash hljs">
 Input another?
-</code>
-</pre>
+</code></pre>
 
 If you type a "y", you'll be able to do the calculation again.
 
