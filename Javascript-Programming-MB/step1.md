@@ -1,6 +1,6 @@
 Copy the following code to the editor on the right:
 
-<pre class="file" data-filename="/root/code/index.html" data-target="replace">
+<pre class="file" data-filename="index.html" data-target="replace">
 &lt;HTML&gt;
 &lt;BODY&gt;
     &lt;H1&gt;Hello, World&lt;/H1&gt;
