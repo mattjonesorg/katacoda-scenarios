@@ -47,7 +47,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal",
+    "uilayout": "vscode-terminal-split",
     "uieditorpath": "/code"
   },
   "backend": {
