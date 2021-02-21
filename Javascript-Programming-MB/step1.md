@@ -1,7 +1,7 @@
 Copy the following code to the editor on the right:
 
 <pre class="file" data-filename="index.html" data-target="replace">
-<code class="language-html hljs">
+<code class="language-xml hljs">
 <HTML>
 <BODY>
     <H1>Hello, World</H1>
