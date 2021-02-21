@@ -43,8 +43,12 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal",
-    "uieditorpath": "/code"
+    "uilayout": "terminal-iframe-split",
+    "uieditorpath": "/code",
+    "showdashboard": true,
+        "dashboards": [
+            {"name": "Be Prepared", "href": "https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com"}
+          ]
   },
   "backend": {
     "imageid": "ubuntu:2004"
