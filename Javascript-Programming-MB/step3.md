@@ -2,7 +2,7 @@ Nothing happened yet, right?
 
 That's because HTML describes how a web page should be structured, but Javascript is what makes a web page a bit more interactive.  
 
-Look at line 5 in the HTML, that is an instruction that tells the browser to load the javascript code.
+Look at line 6 in the HTML, that is an instruction that tells the browser to load the javascript file named "BePrepared.js".
 
 So, let's create our Javascript file!
 

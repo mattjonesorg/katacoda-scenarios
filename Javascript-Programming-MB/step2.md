@@ -25,4 +25,4 @@ Let's start with the HTML.
 
 Now, reload your page:  https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/
 
-What happens?  
+What happens when you try to enter a number?  
