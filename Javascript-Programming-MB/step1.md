@@ -1,13 +1,11 @@
 Copy the following code to the editor on the right:
 
-<pre class="file" data-filename="index.html" data-target="replace">
-<code class="language-xml hljs">
+<pre class="file hljs xml" data-filename="index.html" data-target="replace">
 <HTML>
 <BODY>
     <H1>Hello, World</H1>
 </BODY>
 </HTML>
-</code>
 </pre>
 
 You can change the message inside the H1 tag if you'd like.
