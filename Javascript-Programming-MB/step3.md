@@ -35,3 +35,5 @@ var bePrepared = function () {
       document.getElementById(&#39;myAnswer&#39;).innerHTML = newText;
     };
 </pre>
+
+Once you see the BePrepared.js file in the editor on the right, you may press Continue.
