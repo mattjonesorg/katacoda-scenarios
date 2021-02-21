@@ -45,7 +45,10 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
+  "environment": {
+    "uilayout": "vscode",
+    "uieditorpath": "/code"
+  },
   "backend": {
     "imageid": "ubuntu:2004"
   }
