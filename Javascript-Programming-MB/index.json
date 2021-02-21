@@ -47,7 +47,7 @@
     "uieditorpath": "/code",
     "showdashboard": true,
         "dashboards": [
-            {"name": "Be Prepared", "href": "https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com"}
+            {"name": "Be Prepared", "href": "https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com"}
           ]
   },
   "backend": {
