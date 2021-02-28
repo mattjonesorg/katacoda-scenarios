@@ -51,6 +51,6 @@
     "showide": true
   },
   "backend": {
-    "imageid": "openjdk:11"
+    "imageid": "ubuntu:2004"
   }
 }
