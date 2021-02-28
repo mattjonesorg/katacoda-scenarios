@@ -47,7 +47,7 @@
   },
   "environment": {
     "uilayout": "vscode-terminal-split",
-    "uieditorpath": "/code",
+    "uieditorpath": "/root",
     "showide": true
   },
   "backend": {
