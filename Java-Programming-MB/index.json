@@ -45,7 +45,11 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
+  "environment": {
+    "uilayout": "terminal",
+    "uieditorpath": "/code",
+    "showide": true
+  },
   "backend": {
     "imageid": "openjdk:11"
   }
