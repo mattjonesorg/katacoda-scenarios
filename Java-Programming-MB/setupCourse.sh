@@ -1,0 +1,2 @@
+mkdir /code
+cd /code
