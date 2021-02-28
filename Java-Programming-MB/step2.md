@@ -1,5 +1,7 @@
 # Running the program
 
+First, in the pane on the right, select the Terminal tab.
+
 Java is a static compiled language, while Javascript and Python are intepreted languages that both compile and run the code at the same time.
 
 With Java, we have to run a command in order to create a program that the computer can run.  Do that using the following command:
