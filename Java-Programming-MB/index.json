@@ -46,8 +46,8 @@
     }
   },
   "environment": {
-    "uilayout": "vscode-terminal",
-    "uieditorpath": "/root",
+    "uilayout": "terminal",
+    "uieditorpath": "/root/java-guess-a-word",
     "showide": true
   },
   "backend": {
